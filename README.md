@@ -15,7 +15,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - <img src="./assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="./assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Nuxt.js;
+- <img src="./assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning React.js;
 - <img src="./assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="./assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I publish my project at [Portfolio](https://imohamedsayed.vercel.app/works);
 - <img src="./assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: mohamedelsayed0901@gmail.com;
